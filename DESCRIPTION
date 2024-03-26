@@ -12,3 +12,5 @@ License: GPL-2
 Packaged: 2012-10-18 04:21:45 UTC; jfplante
 Repository: CRAN
 Date/Publication: 2012-10-19 06:44:27
+RoxygenNote: 7.2.3
+Encoding: UTF-8
